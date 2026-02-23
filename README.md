@@ -1,2 +1,3 @@
-# engr1340-RefilwePRepo1
-ENGR 1340 Assignment 3 - Repo 1 (Fork-based GitHub workflow)
+# ENGR 1340 - Assignment 3 Repo 1
+Full name : Refilwe Pitso
+This repository demonstrates the fork-based GitHub workflow.
